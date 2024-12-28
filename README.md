@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leenimad
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning DATA STRUCTURES 
+- 👀 I’m interested in programming  
 - 💞️ I’m looking to collaborate on i don't know yet 
 - 📫 How to reach me leen batta
 
