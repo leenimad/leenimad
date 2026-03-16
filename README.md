@@ -10,7 +10,9 @@
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Flutter
 **Backend:** Node.js · Express.js · REST APIs · Socket.io
 **Database:** MongoDB · PostgreSQL · Supabase
+
 **AI:** Google Gemini · RAG · LLM APIs · Prompt Engineering
+
 **Tools:** Git · Postman · Vercel · Linux
 
 ## 🚀 Featured Projects
